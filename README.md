@@ -102,4 +102,4 @@ It should look like this
 
 Update the New Ticket Options and follow the steps above. 
 
-On the [next tutorial](https://github.com/fnabeel/osTicket---Ticket-Lifecycle-Intake-Through-Resolution), we will create Tickets and showcase the Ticket Lifecycle.
+On the [next tutorial](https://github.com/ddeloya101/ticket-lifecycle), we will create Tickets and showcase the Ticket Lifecycle.
